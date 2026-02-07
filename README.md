@@ -69,7 +69,7 @@ streamlit run app.py
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="Screenshotpng" width="400"/>
+  <img src="Screenshot.png" width="400"/>
   <img src="Screenshot 2.png" width="400"/>
 </p>
 
